@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-CVisionAI-d325c61b-4963-445a-9c98-f4a38a107ee2")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CVisionAI")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0cebe3d58465a494a87086c51f2f1ce022718ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("CVisionAI")]
